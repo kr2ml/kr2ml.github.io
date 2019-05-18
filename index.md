@@ -20,11 +20,13 @@ To reach a broader audience and increase the public awareness of the importance 
 - Michael Witbrock (Accepted)
 - William W. Cohen (Accepted)
 - Francesca Rossi (Accepted)
-- Leslie Kaelbling
 
 # Organizers
 
-
+- Veronika Thost
+- Christian Muise
+- Kartik Talamadupula
+- Sameer Singh
 
 <!-- <div class="posts-list">
   {% for post in paginator.posts %}
