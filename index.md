@@ -27,6 +27,7 @@ To reach a broader audience and increase the public awareness of the importance 
 - Christian Muise
 - Kartik Talamadupula
 - Sameer Singh
+- Christopher Ré
 
 <!-- <div class="posts-list">
   {% for post in paginator.posts %}
