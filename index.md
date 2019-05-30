@@ -16,10 +16,11 @@ To reach a broader audience and increase the public awareness of the importance 
 
 # Speakers
 
-- Oren Etzioni (Accepted)
-- Michael Witbrock (Accepted)
 - William W. Cohen (Accepted)
+- Xin Luna Dong (Accepted)
+- Oren Etzioni (Accepted)
 - Francesca Rossi (Accepted)
+- Michael Witbrock (Accepted)
 
 # Organizers
 
