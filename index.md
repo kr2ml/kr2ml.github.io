@@ -11,8 +11,9 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
 
 To reach a broader audience and increase the public awareness of the importance of the topic, we propose to hold the second KRML workshop at NeurIPS 2019. Our goal is to advance the general discussion of the topic by highlighting contributions that propose innovative approaches integrating KR and ML (i.e., in contrast to approaches that just augment previous work in "established" areas of interaction, such as knowledge graph embeddings). Moreover, we will have a call for key challenges, which will be presented and discussed in a special session at the workshop, and later released as a special report for the field to consider. Our tentative list of invited speakers/panel covers renown experts from both academia and industry who have made important contributions to the integration of KR and ML across a spectrum of approaches to combining the fields. The program (a tentative schedule is attached below) will be rounded off by a poster session, which will provide the time and space for preliminary ideas to be discussed.
 
-# Call
+# Program
 
+The focus ofKR2MLis to initiate and continue discussions and collaborations between researchers from the two areas KRR and ML. To encourage this interaction, the program features several invited talks of experienced researchers about challenges in the field as well as successful work in the area. A special key challenge session invites open discussion of major problems and opportunities. Some of the problems will be further highlighted in a discussion panel of prominent experts,  which will also give attendees the opportunity to contribute.  Finally, poster sessions throughout the day will provide room for presenting and discussing ongoing works and exploring possible collaborations; they will bestarted by one-minute spotlight talks highlighting the posters. We hope to attract many participants and will use a plenary format for the talks.
 
 # Speakers
 
@@ -24,11 +25,11 @@ To reach a broader audience and increase the public awareness of the importance 
 
 # Organizers
 
-- Veronika Thost
-- Christian Muise
-- Kartik Talamadupula
-- Sameer Singh
-- Christopher Ré
+- [Veronika Thost](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Veronika.Thost)
+- [Christian Muise](http://www.haz.ca/)
+- [Kartik Talamadupula](http://www.ktalamad.com/)
+- [Sameer Singh](http://www.sameersingh.org/)
+- [Christopher Ré](https://cs.stanford.edu/people/chrismre/)
 
 <!-- <div class="posts-list">
   {% for post in paginator.posts %}
