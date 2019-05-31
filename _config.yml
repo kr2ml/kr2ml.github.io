@@ -24,7 +24,7 @@ description: NeurIPS 2019 Workshop on the Interaction Between Knowledge Represen
 # List of links in the navigation bar
 navbar-links:
   About: "#about"
-  Call: "#call"
+  Program: "#program"
   Speakers: "#speakers"
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     # - Learn markdown: "http://www.markdowntutorial.com/"
