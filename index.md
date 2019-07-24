@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KR2ML
-subtitle: Knowledge Representation & Reasoning Meets Machine Learning
+subtitle: Knowledge Representation and Reasoning Meets Machine Learning
 use-site-title: true
 ---
 
