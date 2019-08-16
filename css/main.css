@@ -129,6 +129,10 @@ img {
   color: {{ site.navbar-text-col }};
 }
 
+.navbar-brand {
+  padding-left: 50px;
+}
+
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
