@@ -1,4 +1,9 @@
-# Related Venues
+---
+layout: page
+title: Related Venues
+subtitle:
+use-site-title: true
+---
 
 - [Workshop on Neural-Symbolic Learning and Reasoning (NeSys'19)](https://sites.google.com/view/nesy2019/home), see more on <http://www.neural-symbolic.org/>
 - [Workshop on Semantic Deep Learning (SemDeep'19)](http://www.dfki.de/semdeep-5/)
