@@ -23,7 +23,7 @@ description: Knowledge Representation & Reasoning Meets Machine Learning
 
 # List of links in the navigation bar
 navbar-links:
-  Related: "venues"
+  #Related: "venues"
   #ibm-2019: "#ibm-2019"
   #2019: "#2019"
   #Program: "#program"
