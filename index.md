@@ -15,6 +15,7 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
 - [@IBM 2018](https://researcher.watson.ibm.com/researcher/view_group.php?id=9660)
 - [@IBM 2019](https://kr2ml.github.io/ibm-2019)
 - [@NeurIPS 2019](https://kr2ml.github.io/2019)
+- [@NeurIPS 2020](https://kr2ml.github.io/2020)
 
 <!-- <div class="posts-list">
   {% for post in paginator.posts %}
